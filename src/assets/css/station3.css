@@ -1,15 +1,15 @@
 .card {
-    background-color: #ffffff
+    background-color: #ffffff;
     padding: 8px 8px;
 }
-
+ 
 .card__title {
     color: #282828;
     font-size: 14px;
 }
 
 .card__description {
-    font-color:　#282828;
+    color: #282828;
     font-size: 12px;
 }
 
